@@ -26,12 +26,12 @@ Follow these steps to run the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/imranfaiz786/My-Portfolio.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio-website
+   cd My-Portfolio
    ```
 
 3. Install the required dependencies:
